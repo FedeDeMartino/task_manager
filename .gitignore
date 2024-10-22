@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+
+data/tasks.txt
+
+.DS_Store
